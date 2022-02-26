@@ -1,9 +1,38 @@
 body{
-	background-image: url(background.jpg);
+	background: url(background.jpg);
+	background-size: cover;
 }
-
-div{
-	background-color: pink;
+fieldset{
+	width: 70%;
+	height: 100%;
+	text-align: center;
+	margin:  auto;
+	font-family: Montserrat;
+	font-size: 20px;
+}
+#name{
+	background-color: rgba(183,193,128,0.7);
+	border: 5px solid rgba(136,147,95,255);
+}
+#nickname{
+	background-color: rgba(163,50,76,0.7);
+	border: 5px solid rgba(163,50,76,255);
+}
+#cmsc{
+	background-color: rgba(254,243,241,0.8);
+	border: 5px solid rgba(254,243,241,255);
+}
+#ge{
+	background-color: rgba(183,193,128,0.7);
+	border: 5px solid rgba(136,147,95,255);
+}
+#pl{
+	background-color: rgba(163,50,76,0.7);
+	border: 5px solid rgba(163,50,76,255);
+}
+#food{
+	background-color: rgba(254,243,241,0.8);
+	border: 5px solid rgba(254,243,241,255);
 }
 h1{
 	color:white;
@@ -11,4 +40,10 @@ h1{
 	font-family: Baloo;
 	text-align: center;
 	font-size: 60px;
+}
+h2{
+	color:white;
+	font-family: Baloo;
+	text-align: center;
+	font-size: font-size:10vw;
 }
