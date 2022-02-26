@@ -6,5 +6,9 @@ div{
 	background-color: pink;
 }
 h1{
-	color:pink;
+	color:white;
+	text-shadow: 2px 2px;
+	font-family: Baloo;
+	text-align: center;
+	font-size: 60px;
 }
