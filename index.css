@@ -35,6 +35,14 @@ fieldset{
 	background-color: rgba(254,243,241,0.8);
 	border: 5px solid rgba(254,243,241,255);
 }
+#hobby{
+	background-color: rgba(183,193,128,0.7);
+	border: 5px solid rgba(136,147,95,255);
+}
+#dream{
+	background-color: rgba(163,50,76,0.7);
+	border: 5px solid rgba(163,50,76,255);
+}
 h1{
 	color:white;
 	text-shadow: 2px 2px 1px black;
